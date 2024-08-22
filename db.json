@@ -1,0 +1,223 @@
+{
+  "employees": [
+    {
+      "id": "d5ec",
+      "name": "Rajat Namdev",
+      "email": "rjtnamdev02@gmail.com",
+      "mobile": "09806330447",
+      "address": "N400 singapore green view",
+      "role": "Employee"
+    },
+    {
+      "id": "a1f2",
+      "name": "Meera Sharma",
+      "email": "meera.sharma@example.com",
+      "mobile": "09123456789",
+      "address": "Apt 21, Green Park, Mumbai",
+      "role": "Employee"
+    },
+    {
+      "id": "b3g7",
+      "name": "Arjun Verma",
+      "email": "arjun.verma@example.com",
+      "mobile": "09987654321",
+      "address": "Flat 403, Silver Heights, Delhi",
+      "role": "Admin"
+    },
+    {
+      "id": "c4h9",
+      "name": "Sneha Kapoor",
+      "email": "sneha.kapoor@example.com",
+      "mobile": "09876543210",
+      "address": "Villa 10, Palm Meadows, Bangalore",
+      "role": "Employee"
+    },
+    {
+      "id": "d5j3",
+      "name": "Rohan Mehta",
+      "email": "rohan.mehta@example.com",
+      "mobile": "09765432109",
+      "address": "House 18, Sunshine Apartments, Pune",
+      "role": "Admin"
+    },
+    {
+      "id": "e6k8",
+      "name": "Priya Singh",
+      "email": "priya.singh@example.com",
+      "mobile": "09654321098",
+      "address": "Plot 22, Blossom Avenue, Chennai",
+      "role": "Employee"
+    },
+    {
+      "id": "f7l2",
+      "name": "Amit Gupta",
+      "email": "amit.gupta@example.com",
+      "mobile": "09543210987",
+      "address": "Bungalow 7, Royal Residency, Hyderabad",
+      "role": "Employee"
+    },
+    {
+      "id": "g8m5",
+      "name": "Anjali Desai",
+      "email": "anjali.desai@example.com",
+      "mobile": "09432109876",
+      "address": "Flat 105, Sunrise Towers, Kolkata",
+      "role": "Admin"
+    },
+    {
+      "id": "h9n1",
+      "name": "Kunal Patel",
+      "email": "kunal.patel@example.com",
+      "mobile": "09321098765",
+      "address": "Penthouse 12, Ocean View, Goa",
+      "role": "Employee"
+    },
+    {
+      "id": "i0p6",
+      "name": "Nisha Joshi",
+      "email": "nisha.joshi@example.com",
+      "mobile": "09210987654",
+      "address": "Flat 3B, Mountain Breeze, Shimla",
+      "role": "Employee"
+    },
+    {
+      "id": "j1q4",
+      "name": "Vikas Reddy",
+      "email": "vikas.reddy@example.com",
+      "mobile": "09109876543",
+      "address": "Villa 4, Emerald Hills, Hyderabad",
+      "role": "Admin"
+    },
+    {
+      "id": "k2r8",
+      "name": "Neha Bhatt",
+      "email": "neha.bhatt@example.com",
+      "mobile": "09098765432",
+      "address": "House 9, Green Acres, Chandigarh",
+      "role": "Employee"
+    },
+    {
+      "id": "l3s7",
+      "name": "Ravi Kaur",
+      "email": "ravi.kaur@example.com",
+      "mobile": "08987654321",
+      "address": "Apt 55, Maple Woods, Ludhiana",
+      "role": "Employee"
+    },
+    {
+      "id": "m4t2",
+      "name": "Shivani Nair",
+      "email": "shivani.nair@example.com",
+      "mobile": "08876543210",
+      "address": "Flat 16, River View, Kochi",
+      "role": "Admin"
+    },
+    {
+      "id": "n5u5",
+      "name": "Rahul Saxena",
+      "email": "rahul.saxena@example.com",
+      "mobile": "08765432109",
+      "address": "Plot 7, Rose Garden, Jaipur",
+      "role": "Employee"
+    },
+    {
+      "id": "o6v3",
+      "name": "Divya Kapoor",
+      "email": "divya.kapoor@example.com",
+      "mobile": "08654321098",
+      "address": "Flat 22, Crystal Towers, Gurgaon",
+      "role": "Employee"
+    },
+    {
+      "id": "p7w6",
+      "name": "Manish Jain",
+      "email": "manish.jain@example.com",
+      "mobile": "08543210987",
+      "address": "Villa 2, Dream Meadows, Ahmedabad",
+      "role": "Admin"
+    },
+    {
+      "id": "q8x1",
+      "name": "Pooja Mehra",
+      "email": "pooja.mehra@example.com",
+      "mobile": "08432109876",
+      "address": "Flat 17, Lake View, Bhopal",
+      "role": "Employee"
+    },
+    {
+      "id": "r9y9",
+      "name": "Siddharth Rao",
+      "email": "siddharth.rao@example.com",
+      "mobile": "08321098765",
+      "address": "House 11, Blue Sky, Vizag",
+      "role": "Employee"
+    },
+    {
+      "id": "s0z4",
+      "name": "Nikita Malhotra",
+      "email": "nikita.malhotra@example.com",
+      "mobile": "08210987654",
+      "address": "Apt 9, City Lights, Nagpur",
+      "role": "Admin"
+    },
+    {
+      "id": "t1a6",
+      "name": "Vivek Joshi",
+      "email": "vivek.joshi@example.com",
+      "mobile": "08109876543",
+      "address": "Villa 15, Palm Beach, Thiruvananthapuram",
+      "role": "Employee"
+    },
+    {
+      "id": "u2b7",
+      "name": "Riya Sen",
+      "email": "riya.sen@example.com",
+      "mobile": "08098765432",
+      "address": "Flat 44, Green Leaf, Patna",
+      "role": "Employee"
+    },
+    {
+      "id": "v3c1",
+      "name": "Ankit Mishra",
+      "email": "ankit.mishra@example.com",
+      "mobile": "07987654321",
+      "address": "House 14, Pearl Villas, Indore",
+      "role": "Admin"
+    },
+    {
+      "id": "w4d5",
+      "name": "Komal Yadav",
+      "email": "komal.yadav@example.com",
+      "mobile": "07876543210",
+      "address": "Plot 18, Sunrise Enclave, Jodhpur",
+      "role": "Employee"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "Admin"
+    },
+    {
+      "id": "42b4",
+      "name": "Rajat namdev",
+      "email": "rajat@gmail.com",
+      "password": "rajat12345",
+      "mobile": "09806330447",
+      "address": "N400 singapore green view",
+      "role": "Admin"
+    },
+    {
+      "id": "eef0",
+      "name": "Rajat Namdev",
+      "email": "rajat2@gmail.com",
+      "password": "rajat123456",
+      "mobile": "09806330447",
+      "address": "N400 singapore green view",
+      "role": "Employee"
+    }
+  ]
+}
